@@ -2,12 +2,13 @@
   <name>Small addons for Androids race</name>
   <packageId>ttr.droidpatches</packageId>
   <author>ttr</author>
-  <url></url>
+  <url>https://steamcommunity.com/sharedfiles/filedetails/?id=2193548667</url>
   <supportedVersions>
 	<li>1.1</li>
 	<!-- <li>1.2</li> -->
   </supportedVersions>  
-  <description>Allows battle droids to use solarduster.
+  <description>Allows battle droids to use solar duster.
+Optional (enabled if additional mods are installed):
   (SoS2) Adds solar Eva for droid.
   (Rimatonics) Replace Vanometric cell with R.T.G (plutonium) for Androids</description>
   <modDependencies>
