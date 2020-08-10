@@ -10,13 +10,13 @@
   <description>Adds solar Eva (SoS2) for droid and allows battle droids touse solarduster.</description>
   <modDependencies>
     <li>
-      <packageId>ChJess.Androids</packageId>
+      <packageId>ChJees.Androids</packageId>
       <displayName>Androids</displayName>
 	  <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=1541064015</steamWorkshopUrl>
     </li>
   </modDependencies>    
   <loadAfter>
-    <li>ChJess.Androids</li>
+    <li>ChJees.Androids</li>
 	<li>kentington.saveourship2</li>
   </loadAfter>
 </ModMetaData>
