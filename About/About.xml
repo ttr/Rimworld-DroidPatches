@@ -1,0 +1,23 @@
+<ModMetaData>
+  <name>Small addons for Androids race</name>
+  <packageId>ttr.droidpatches</packageId>
+  <author>ttr</author>
+  <url></url>
+  <supportedVersions>
+	<li>1.1</li>
+	<li>1.2</li>
+  </supportedVersions>  
+  <description>Adds solar Eva (SoS2) for droid and allows battle droids touse solarduster.</description>
+  <modDependencies>
+    <li>
+      <packageId>ChJess.Androids</packageId>
+      <displayName>Androids</displayName>
+	  <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=1541064015</steamWorkshopUrl>
+    </li>
+  </modDependencies>    
+  <loadAfter>
+    <li>ChJess.Androids</li>
+	<li>kentington.saveourship2</li>
+  </loadAfter>
+</ModMetaData>
+
